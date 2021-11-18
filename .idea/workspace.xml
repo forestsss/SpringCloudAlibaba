@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08726624-1810-4b3f-8feb-e20960ab22a1" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chose</find>
+      <find>chooseServer(</find>
+      <find>DynamicServerWeightTask</find>
+      <find>chooseServer</find>
+      <find>b5b1e507d78daddf</find>
+      <find>5b8d848bfe302dfb</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\source2\maven_new" />
+        <option name="mavenHome" value="D:/source2/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\source2\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20LdyHdElqAQyoqSCSjfO8LOY7b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xdclass-video-service" />
+      <recent name="$PROJECT_DIR$/xdclass-order-service" />
+      <recent name="$PROJECT_DIR$/xdclass-video-service/src/main/resources" />
+      <recent name="$PROJECT_DIR$/xdclass-api-gateway/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VideoApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xdclass-api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xdclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.xdclass.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="xdclass-order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xdclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.xdclass.OrderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="xdclass-video-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xdclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.xdclass.VideoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.VideoApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.VideoApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08726624-1810-4b3f-8feb-e20960ab22a1" name="Default" comment="" />
+      <created>1599479115065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599479115065</updated>
+      <workItem from="1599479118879" duration="23055000" />
+      <workItem from="1599699932325" duration="299000" />
+      <workItem from="1599700317181" duration="11199000" />
+      <workItem from="1599808202693" duration="3263000" />
+      <workItem from="1599979841875" duration="15000" />
+      <workItem from="1599979869356" duration="45000" />
+      <workItem from="1599979933231" duration="11914000" />
+      <workItem from="1600054246496" duration="4319000" />
+      <workItem from="1635828067737" duration="9563000" />
+      <workItem from="1637205311305" duration="3560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="87" key="#Project_Structure" timestamp="1637243674827">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="451" y="87" key="#Project_Structure/0.0.1920.1030@0.0.1920.1030" timestamp="1637243674827" />
+    <state x="660" y="153" key="FileChooserDialogImpl" timestamp="1637243318699">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="660" y="153" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1637243318699" />
+    <state x="311" y="0" key="SettingsEditor" timestamp="1637243552186">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1637243552186" />
+    <state width="314" height="242" key="ShowFilterAction_Filter_Popup" timestamp="1637243487861">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="314" height="242" key="ShowFilterAction_Filter_Popup/0.0.1920.1030@0.0.1920.1030" timestamp="1637243487861" />
+    <state x="955" y="229" width="840" height="894" key="search.everywhere.popup" timestamp="1637243582772">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="955" y="229" width="840" height="894" key="search.everywhere.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1637243582772" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RoundRobinRule.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.5.RELEASE/spring-cloud-netflix-ribbon-2.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.5.RELEASE/spring-cloud-netflix-ribbon-2.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.5.RELEASE/spring-cloud-netflix-ribbon-2.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/controller/OrderController.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/controller/OrderController.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xdclass-order-service/src/main/java/net/xdclass/controller/OrderController.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
