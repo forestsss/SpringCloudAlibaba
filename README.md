@@ -15,7 +15,7 @@ Sleuth+Zipkin做链路追踪
 
 项目模块主要包括视频模块，订单模块，用户模块。
 项目代码目录：
-
+![Image text]https://github.com/forestsss/img-folder/springcloudAlibaba1.png
 
 
 Nacos的使用：
