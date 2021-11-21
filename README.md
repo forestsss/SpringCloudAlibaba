@@ -1,7 +1,4 @@
-# SpringCloudAlibaba
-SpringCloudAlibaba
-
-SpringCloudAlibaba项目介绍
+# SpringCloudAlibaba项目介绍
 
 项目使用：springboot+SpringCloud+AlibabaCloud
 开发系统使用Linux Centos 8(虚拟机)
@@ -14,14 +11,14 @@ Feign做服务间调用
 Sleuth+Zipkin做链路追踪
 
 项目模块主要包括视频模块，订单模块，用户模块。
-项目代码目录：
+## 项目代码目录：
 
 
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba1.png)
 
 
-Nacos的使用：
+## Nacos的使用：
 引入依赖并进行配置
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba2.png)
@@ -36,11 +33,11 @@ Nacos的使用：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba7.png)
 
-Nacos的页面
+## Nacos的页面
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba8.png)
 
-使用open-Feign实现远程方法调用：
+## 使用open-Feign实现远程方法调用：
 导入依赖
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba9.png)
@@ -50,13 +47,13 @@ Nacos的页面
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba11.png)
 
-使用sentinel实现服务的限流，熔断和降级。
+## 使用sentinel实现服务的限流，熔断和降级。
 引入依赖以及进行配置：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba12.png)
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba13.png)
 
-Sentinel页面中进行限流操作
+## Sentinel页面中进行限流操作
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba14.png)
 
@@ -64,7 +61,7 @@ Sentinel页面中配置熔断策略：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba15.png)
 
-降级后使用feign和sentinel的整合，对降级后的返回用户一个提前准备的兜底数据。
+## 降级后使用feign和sentinel的整合，对降级后的返回用户一个提前准备的兜底数据。
 开启feign对sentinel的支持：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba16.png)
@@ -77,7 +74,7 @@ Sentinel页面中配置熔断策略：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba18.png)
 
-创建Gateway：
+## 创建Gateway：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba19.png)
 
@@ -86,20 +83,20 @@ Sentinel页面中配置熔断策略：
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba20.png)
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba21.png)
 
-使用Gateway的全局过滤器实现用户鉴权:
+## 使用Gateway的全局过滤器实现用户鉴权:
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba22.png)
 
-使用Sleuth+Zipkin实现链路追踪：
+## 使用Sleuth+Zipkin实现链路追踪：
 导入依赖以及配置：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba23.png)
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba24.png)
 
-Zipkin界面：
+## Zipkin界面：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba25.png)
 
-Zipkin的日志持久化：
+## Zipkin的日志持久化：
 
 ![Image text](https://github.com/forestsss/img-folder/blob/765e0538c4e0ac624d260ede6956cbc2c556b131/springcloudAlibaba26.png)
